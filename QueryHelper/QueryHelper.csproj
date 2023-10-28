@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>DF.QueryHelper</PackageId>
+    <Title>QueryHelper</Title>
+    <Version>7.0.0</Version>
+    <Authors>dawidflorian</Authors>
+    <Description>Easy pagination and sorting options</Description>
+  </PropertyGroup>
+
+</Project>
